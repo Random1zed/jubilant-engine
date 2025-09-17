@@ -6570,3 +6570,42 @@
 [17Sep2025 17:49:16.013] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Randomi_zed
 [17Sep2025 17:49:16.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
 [17Sep2025 17:49:16.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has made the advancement [Ice and Fire]
+[17Sep2025 17:50:30.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Randomi_zed a server operator
+[17Sep2025 17:50:38.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Randomi_zed: Set own game mode to Creative Mode]
+[17Sep2025 17:50:42.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has made the advancement [Alex's Mobs]
+[17Sep2025 17:53:41.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Randomi_zed: Teleported Randomi_zed to -1023.5, 75.7455474257907, -943.5]
+[17Sep2025 17:53:42.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
+[17Sep2025 17:54:06.115] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1132, y=21, z=-964} but found not block entity block Block{minecraft:stone} at location
+[17Sep2025 17:54:06.115] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1132, y=21, z=-964}
+[17Sep2025 17:54:16.173] [Worker-Main-12/INFO] [antiqueatlas/]: Created new marker #2"gui.antiqueatlas.marker.village"@(-955, -1189)
+[17Sep2025 17:54:28.882] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Sep2025 17:54:28.882] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Sep2025 17:54:28.882] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.armorToughness'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackKnockback'
+[17Sep2025 17:54:28.883] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Sep2025 17:54:28.887] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[17Sep2025 17:54:28.887] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.knockbackResistance'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.armorToughness'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.followRange'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackKnockback'
+[17Sep2025 17:54:28.888] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.attackDamage'
+[17Sep2025 17:54:41.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has made the advancement [Old School Defense]
+[17Sep2025 17:54:41.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has reached the goal [Upgrade Me with Debris]
+[17Sep2025 17:56:03.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has made the advancement [Halberdier]
+[17Sep2025 17:56:04.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has made the advancement [Hammer Time!]
+[17Sep2025 17:56:13.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed has made the advancement [...And My Axe!]
+[17Sep2025 17:57:14.309] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[17Sep2025 17:57:16.133] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Randomi_zed moved too quickly! 9.841983878692645,-2.3517540527072356,-1.47019675899071
+[17Sep2025 17:57:16.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[17Sep2025 17:57:58.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Randomi_zed: Applied enchantment Sharpness V to Randomi_zed's item]
+[17Sep2025 17:59:53.449] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Randomi_zed lost connection: Disconnected
+[17Sep2025 17:59:53.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed left the game
