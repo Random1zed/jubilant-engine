@@ -11642,3 +11642,7 @@
 [17Sep2025 17:59:52.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [17Sep2025 17:59:53.449] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Randomi_zed lost connection: Disconnected
 [17Sep2025 17:59:53.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Randomi_zed left the game
+[17Sep2025 18:02:16.337] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Sep2025 18:02:16.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Sep2025 18:07:16.274] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Sep2025 18:07:16.299] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
